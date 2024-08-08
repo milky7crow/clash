@@ -3,7 +3,7 @@ package rules
 import (
 	"net"
 
-	C "github.com/Dreamacro/clash/constant"
+	C "github.com/milky7crow/clash/constant"
 )
 
 type IPCIDR struct {
